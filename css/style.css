@@ -59,6 +59,8 @@ a{
   border: 5px rgb(111,127,122) solid;
 }
 
-footer p {
+footer {
+  font-size: 0.8em;
   text-align: right;
+  background: #fff;
 }
