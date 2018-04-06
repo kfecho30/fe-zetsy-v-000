@@ -49,3 +49,12 @@ p {
 a{
   text-decoration: none;
 }
+
+#press img {
+  border: 5px #ccc solid;
+  padding: 1px;
+}
+
+#press img:hover {
+  border: 5px rgb(111,127,122) solid;
+}
